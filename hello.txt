@@ -1,2 +1,2 @@
 Hi I'm Danish and these changes are made in master branch
-the second line is changed by me
+The second line was added by some other developer
