@@ -1,2 +1,3 @@
 Hi I'm Danish and these changes are made in master branch
 The second line was added by some other developer
+The third line was added by some other developer
